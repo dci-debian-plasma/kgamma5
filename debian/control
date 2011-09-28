@@ -1,0 +1,27 @@
+Source: kgamma
+Section: kde
+Priority: optional
+Maintainer: Kubuntu Developers <kubuntu-devel@lists.ubuntu.com>
+XSBC-Original-Maintainer: Harald Sitter <apachelogger@ubuntu.com>
+Build-Depends: kde-sc-dev-latest (>= 4:4.7.1),
+ cmake, debhelper (>= 7.3.16), pkg-kde-tools (>= 0.12),
+ kdelibs5-dev (>= 4:4.7)
+Standards-Version: 3.9.2
+Homepage: http://www.kde.org/
+Vcs-Browser: http://bazaar.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kgamma
+Vcs-Bzr: https://code.launchpad.net/~kubuntu-packagers/kubuntu-packaging/kgamma
+
+Package: kgamma
+Section: graphics
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Suggests: khelpcenter4
+Description: monitor calibration panel for KDE
+ This package contains a settings panel for adjusting the brightness, contrast,
+ and gamma-correction of a monitor.  Test patterns are shown to help
+ determine the settings that accurately display the full range of colors.
+ .
+ Each of the red, green, and blue components can be adjusted individually,
+ or all three components can be adjusted together.
+ .
+ This package is part of the KDE graphics module.
