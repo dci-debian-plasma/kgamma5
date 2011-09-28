@@ -9,6 +9,7 @@ License: GPL-2+
 
 Files: debian/*
 Copyright: 2011, Harald Sitter <apachelogger@ubuntu.com>
+Copyright: 2011, Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 License: GPL-2+
 
 License: GPL-2+
