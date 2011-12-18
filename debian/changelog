@@ -1,11 +1,11 @@
-kgamma (4:4.7.4-0r0) UNRELEASED; urgency=low
+kgamma (4:4.7.4-1) experimental; urgency=low
 
   * New upstream release.
 
   [ Eshat Cakar ]
   * Bump kde-sc-dev-latest build dependency to 4:4.7.4.
 
- -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Wed, 07 Dec 2011 22:55:28 +0100
+ -- Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Sun, 18 Dec 2011 01:38:47 +0100
 
 kgamma (4:4.7.2-1) experimental; urgency=low
 
