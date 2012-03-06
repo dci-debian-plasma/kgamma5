@@ -1,3 +1,9 @@
+kgamma (4:4.7.4-2) unstable; urgency=low
+
+  * Team upload. Upload to unstable.
+
+ -- Pino Toscano <pino@debian.org>  Tue, 06 Mar 2012 23:54:51 +0100
+
 kgamma (4:4.7.4-1) experimental; urgency=low
 
   * New upstream release.
