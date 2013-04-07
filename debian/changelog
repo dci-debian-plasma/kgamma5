@@ -1,3 +1,12 @@
+kgamma (4:4.10.2-1) experimental; urgency=low
+
+  * New upstream.
+  * Add me to uploaders.
+  * Bump build-deps.
+  * Remove patch merged upstream.
+
+ -- Sune Vuorela <sune@debian.org>  Sun, 07 Apr 2013 23:13:44 +0000
+
 kgamma (4:4.8.4-2) unstable; urgency=low
 
   * Team upload.
