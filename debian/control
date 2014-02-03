@@ -2,11 +2,15 @@ Source: kgamma
 Section: kde
 Priority: optional
 Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
-Uploaders: Eshat Cakar <info@eshat.de>, Sune Vuorela <sune@debian.org>,
+Uploaders: Eshat Cakar <info@eshat.de>,
+           Sune Vuorela <sune@debian.org>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: kde-sc-dev-latest (>= 4:4.11),
- cmake, debhelper (>= 9), pkg-kde-tools (>= 0.12),
- kdelibs5-dev (>= 4:4.11), libxxf86vm-dev
+Build-Depends: cmake,
+               debhelper (>= 9),
+               kde-sc-dev-latest (>= 4:4.11),
+               kdelibs5-dev (>= 4:4.11),
+               libxxf86vm-dev,
+               pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
 Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kgamma.git
@@ -15,7 +19,7 @@ Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kgamma.git
 Package: kgamma
 Section: graphics
 Architecture: any
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${misc:Depends}, ${shlibs:Depends}
 Suggests: khelpcenter4
 Description: monitor calibration panel for KDE
  This package contains a settings panel for adjusting the brightness, contrast,
