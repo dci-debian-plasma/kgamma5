@@ -1,8 +1,8 @@
-kgamma (4:4.14.2-1~) UNRELEASED; urgency=medium
+kgamma (4:4.14.2-1) unstable; urgency=medium
 
   * New upstream release (4.14.2).
 
- -- Maximiliano Curia <maxy@debian.org>  Thu, 16 Oct 2014 13:55:54 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Mon, 20 Oct 2014 17:12:55 +0200
 
 kgamma (4:4.13.3-1) unstable; urgency=medium
 
