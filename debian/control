@@ -1,7 +1,7 @@
 Source: kgamma
 Section: kde
 Priority: optional
-Maintainer: Debian Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
+Maintainer: Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>
 Uploaders: Eshat Cakar <info@eshat.de>,
            Sune Vuorela <sune@debian.org>,
            Maximiliano Curia <maxy@debian.org>
@@ -13,8 +13,8 @@ Build-Depends: cmake,
                pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-sc/kgamma.git
-Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-sc/kgamma.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-applications/kgamma.git
+Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kgamma.git
 
 Package: kgamma
 Section: graphics
