@@ -1,4 +1,10 @@
-kgamma (4:14.11.95-0ubuntu1) UNRELEASED; urgency=medium
+kgamma (4:14.11.97-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream release candidate
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 02 Dec 2014 20:24:17 -0800
+
+kgamma (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
   * Initial release for KDE applications 14.12 series 
    - Change maintainer to Debian/Kubuntu
