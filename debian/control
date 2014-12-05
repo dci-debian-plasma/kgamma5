@@ -13,7 +13,7 @@ Build-Depends: cmake,
                pkg-kde-tools (>= 0.12)
 Standards-Version: 3.9.5
 Homepage: http://www.kde.org/
-Vcs-Browser: http://anonscm.debian.org/gitweb/?p=pkg-kde/kde-applications/kgamma.git
+Vcs-Browser: http://anonscm.debian.org/cgit/pkg-kde/kde-applications/kgamma.git/
 Vcs-Git: git://anonscm.debian.org/pkg-kde/kde-applications/kgamma.git
 
 Package: kgamma
