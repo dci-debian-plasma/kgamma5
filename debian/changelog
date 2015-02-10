@@ -1,8 +1,8 @@
-kgamma (4:14.12.2-0ubuntu1) UNRELEASED; urgency=medium
+kgamma (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 05 Feb 2015 21:12:35 +0000
+ -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 10 Feb 2015 09:32:43 -0800
 
 kgamma (4:14.12.0-0ubuntu1) vivid; urgency=medium
 
