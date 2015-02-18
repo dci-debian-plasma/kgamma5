@@ -1,9 +1,9 @@
-kgamma (4:14.12.2-1~) UNRELEASED; urgency=medium
+kgamma (4:14.12.2-1) experimental; urgency=medium
 
   * Prepare Debian release.
   * Bump Standards-Version to 3.9.6, no changes needed.
 
- -- Maximiliano Curia <maxy@debian.org>  Wed, 18 Feb 2015 19:28:01 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 18 Feb 2015 20:06:29 +0100
 
 kgamma (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
