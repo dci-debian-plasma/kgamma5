@@ -1,3 +1,9 @@
+kgamma (4:14.12.2-1~) UNRELEASED; urgency=medium
+
+  * Prepare Debian release.
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 18 Feb 2015 19:28:01 +0100
+
 kgamma (4:14.12.2-0ubuntu1) vivid; urgency=medium
 
   * New upstream release
@@ -19,11 +25,11 @@ kgamma (4:14.11.97-0ubuntu1) vivid; urgency=medium
 
 kgamma (4:14.11.95-0ubuntu1) vivid; urgency=medium
 
-  * Initial release for KDE applications 14.12 series 
+  * Initial release for KDE applications 14.12 series
    - Change maintainer to Debian/Kubuntu
-   - Fix Watch file applications locations 
+   - Fix Watch file applications locations
    - Fix VCS for new kde-applications location
-  * Debian merge, no remaining changes. 
+  * Debian merge, no remaining changes.
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Tue, 25 Nov 2014 14:22:24 +0000
 
@@ -402,7 +408,7 @@ kgamma (4:4.8.2-0ubuntu1) precise; urgency=low
 
 kgamma (4:4.8.1-0ubuntu1) precise; urgency=low
 
-  * New upstream release 
+  * New upstream release
 
  -- Philip Muškovac <yofel@kubuntu.org>  Sun, 04 Mar 2012 20:25:53 +0100
 
@@ -490,4 +496,3 @@ kgamma (4:4.6.90+repack-0ubuntu1) oneiric; urgency=low
   * Repack upstream source to include copy of GPL2
 
  -- Harald Sitter <apachelogger@ubuntu.com>  Sun, 10 Jul 2011 11:35:54 +0200
-
