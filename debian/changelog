@@ -1,3 +1,14 @@
+kgamma5 (4:5.3.95-0ubuntu1) wily; urgency=medium
+
+  * Changed debian/control:Source from kgamma->kgamma5
+  * Changed debian/control:Package from kgamma->kgamma5
+  * Updated depends and removed obsolete description
+  * Build with pkg-kde for frameworks
+  * Update build-depends
+  * Add transitional
+
+ -- Aaron Honeycutt <aaronhoneycutt@kubuntu.org>  Thu, 06 Aug 2015 15:22:46 +0000
+
 kgamma (4:15.04.2-0ubuntu1) wily; urgency=medium
 
   [ Scarlett Clark ]
