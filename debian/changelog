@@ -1,4 +1,4 @@
-kgamma5 (4:5.3.95-0ubuntu1) UNRELEASED; urgency=medium
+kgamma5 (4:5.3.95-0ubuntu1) wily; urgency=medium
 
   * Changed debian/control:Source from kgamma->kgamma5
   * Changed debian/control:Package from kgamma->kgamma5
@@ -7,7 +7,7 @@ kgamma5 (4:5.3.95-0ubuntu1) UNRELEASED; urgency=medium
   * Update build-depends
   * Add transitional
 
- -- Aaron Honeycutt <aaronhoneycutt@kubuntu.org>  Thu, 06 Aug 2015 15:22:46 +0000
+ -- Aaron Honeycutt <aaronhoneycutt@kubuntu.org>  Mon, 10 Aug 2015 23:12:56 +0200
 
 kgamma (4:15.04.2-0ubuntu1) wily; urgency=medium
 
