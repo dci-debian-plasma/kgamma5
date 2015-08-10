@@ -31,12 +31,3 @@ Description: monitor calibration panel for KDE
  .
  Each of the red, green, and blue components can be adjusted individually,
  or all three components can be adjusted together.
-
-Package: kgamma
-Section: oldlibs
-Priority: extra
-Architecture: any
-Depends: ${misc:Depends}
-Description: transitional package for kgamma5
- Transitional package for renamed kgamma5, this package can be safely
- removed.
