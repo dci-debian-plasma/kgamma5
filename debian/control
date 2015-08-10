@@ -22,7 +22,6 @@ Package: kgamma5
 Section: graphics
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Recommends: kgamma
 Suggests: khelpcenter
 Conflicts: kgamma
 Replaces: kgamma
