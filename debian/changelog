@@ -1,3 +1,37 @@
+kgamma5 (4:5.4.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Mon, 31 Aug 2015 15:49:04 +0100
+
+kgamma5 (4:5.3.95-0ubuntu1) wily; urgency=medium
+
+  * Changed debian/control:Source from kgamma->kgamma5
+  * Changed debian/control:Package from kgamma->kgamma5
+  * Updated depends and removed obsolete description
+  * Build with pkg-kde for frameworks
+  * Update build-depends
+  * Add transitional
+
+ -- Aaron Honeycutt <aaronhoneycutt@kubuntu.org>  Mon, 10 Aug 2015 23:12:56 +0200
+
+kgamma (4:15.04.2-0ubuntu1) wily; urgency=medium
+
+  [ Scarlett Clark ]
+  * New upstream release
+  * New upstream release
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 19:01:20 +0200
+
+kgamma (4:14.12.3-0ubuntu1) vivid; urgency=medium
+
+  * New upstream release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:29:30 -0700
+
 kgamma5 (5.4.0-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.4.0).
