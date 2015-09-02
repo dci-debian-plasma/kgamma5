@@ -1,3 +1,9 @@
+kgamma5 (5.4.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.4.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 00:04:46 +0200
+
 kgamma5 (4:5.4.0-0ubuntu1) wily; urgency=medium
 
   * new upstream release
@@ -31,12 +37,6 @@ kgamma (4:14.12.3-0ubuntu1) vivid; urgency=medium
   * New upstream release
 
  -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 13 Mar 2015 14:29:30 -0700
-
-kgamma5 (5.4.0-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (5.4.0).
-
- -- Maximiliano Curia <maxy@debian.org>  Thu, 03 Sep 2015 00:04:46 +0200
 
 kgamma (4:14.12.2-1) experimental; urgency=medium
 
