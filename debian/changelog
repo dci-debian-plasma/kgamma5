@@ -1,6 +1,6 @@
 kgamma5 (5.4.0-2~) UNRELEASED; urgency=medium
 
-  * 
+  * Add Breaks/Replaces to the kde4 l10n packages. (Closes: #798073, #798075)
 
  -- Maximiliano Curia <maxy@debian.org>  Sat, 05 Sep 2015 16:50:48 +0200
 
