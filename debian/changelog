@@ -1,3 +1,9 @@
+kgamma5 (5.4.1-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (5.4.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 09 Sep 2015 21:39:19 +0200
+
 kgamma5 (5.4.0-2) unstable; urgency=medium
 
   * Add Breaks/Replaces to the kde4 l10n packages. (Closes: #798073, #798075)
