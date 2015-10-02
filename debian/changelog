@@ -1,8 +1,8 @@
-kgamma5 (4:5.4.2-0ubuntu1) UNRELEASED; urgency=medium
+kgamma5 (4:5.4.2-0ubuntu1) wily; urgency=medium
 
   * New upstream release
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Thu, 01 Oct 2015 07:21:44 -0700
+ -- Scarlett Clark <sgclark@kubuntu.org>  Fri, 02 Oct 2015 15:53:00 +0100
 
 kgamma5 (4:5.4.1-0ubuntu1) wily; urgency=medium
 
