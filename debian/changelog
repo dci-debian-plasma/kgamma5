@@ -1,11 +1,12 @@
-kgamma5 (5.5.3-1~) UNRELEASED; urgency=medium
+kgamma5 (5.5.4-1~) UNRELEASED; urgency=medium
 
   * New upstream release (5.5.0).
   * New upstream release (5.5.1).
   * New upstream release (5.5.2).
   * New upstream release (5.5.3).
+  * New upstream release (5.5.4).
 
- -- Maximiliano Curia <maxy@debian.org>  Sun, 24 Jan 2016 18:48:16 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 27 Jan 2016 11:57:57 +0100
 
 kgamma5 (5.4.3-1) unstable; urgency=medium
 
