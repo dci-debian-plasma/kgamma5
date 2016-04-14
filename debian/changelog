@@ -1,8 +1,8 @@
-kgamma5 (4:5.5.5-0ubuntu1) UNRELEASED; urgency=medium
+kgamma5 (4:5.5.5-0ubuntu1) xenial; urgency=medium
 
   * New upstream bugfix release
 
- -- Philip Muškovac <yofel@kubuntu.org>  Tue, 08 Mar 2016 22:27:45 +0100
+ -- Philip Muškovac <yofel@kubuntu.org>  Thu, 14 Apr 2016 13:37:47 -0700
 
 kgamma5 (4:5.5.4-0ubuntu1) xenial; urgency=medium
 
