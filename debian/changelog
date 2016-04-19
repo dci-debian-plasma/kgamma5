@@ -1,3 +1,9 @@
+kgamma5 (4:5.6.3-0neon) xenial; urgency=medium
+
+  * New release
+
+ -- Neon CI <neon@kde.org>  Tue, 19 Apr 2016 16:54:37 +0000
+
 kgamma5 (4:5.6.2-0neon) xenial; urgency=medium
 
   * New release
