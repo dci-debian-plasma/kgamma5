@@ -1,8 +1,17 @@
-kgamma5 (5.6.2-1~1.gbpf2f7a8) UNRELEASED; urgency=medium
+kgamma5 (5.6.3-1~1.gbp4f6931) UNRELEASED; urgency=medium
 
+  ** SNAPSHOT build @4f69317e7eada405b2a1e54930ac7ccbda150589 **
+
+  [ Maximiliano Curia ]
   ** SNAPSHOT build @f2f7a86bd13d82dfaed3fdbd5ff84e80e9ad19aa **
+  * New upstream release (5.5.5).
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 12 Apr 2016 08:53:19 +0200
+  [ Automatic packaging ]
+  * Bump Standards-Version to 3.9.8
+
+ -- Maximiliano Curia <maxy@gnuservers.com.ar>  Tue, 19 Apr 2016 16:57:18 +0200
 
 kgamma5 (5.5.4-1) experimental; urgency=medium
 
