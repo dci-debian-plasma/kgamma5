@@ -2,15 +2,7 @@ kgamma5 (5.6.2-1~1.gbpf2f7a8) UNRELEASED; urgency=medium
 
   ** SNAPSHOT build @f2f7a86bd13d82dfaed3fdbd5ff84e80e9ad19aa **
 
-  * UNRELEASED
-
  -- Maximiliano Curia <jenkins@amadeus.gnuservers.com.ar>  Tue, 12 Apr 2016 08:53:19 +0200
-
-kgamma5 (5.5.5-1~) UNRELEASED; urgency=medium
-
-  * New upstream release (5.5.5).
-
- -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Mar 2016 16:50:24 +0100
 
 kgamma5 (5.5.4-1) experimental; urgency=medium
 
