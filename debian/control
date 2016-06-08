@@ -25,7 +25,6 @@ Package: kgamma5
 Section: graphics
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
-Suggests: khelpcenter
 Breaks: kgamma, ${kde-l10n:all}
 Replaces: kgamma, ${kde-l10n:all}
 Description: monitor calibration panel for KDE
