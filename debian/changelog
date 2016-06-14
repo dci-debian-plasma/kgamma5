@@ -1,3 +1,11 @@
+kgamma5 (5.6.5-1~1.gbpc7cc8a) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @c7cc8ae1879c0c138f5480cd0b5376483443ee59 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 14 Jun 2016 17:57:10 +0200
+
 kgamma5 (5.6.4-1) unstable; urgency=medium
 
   [ Maximiliano Curia ]
