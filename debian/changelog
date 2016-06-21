@@ -1,10 +1,8 @@
-kgamma5 (5.6.5-1~1.gbpc7cc8a) UNRELEASED; urgency=medium
+kgamma5 (5.6.5-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @c7cc8ae1879c0c138f5480cd0b5376483443ee59 **
+  * New upstream release.
 
-  * UNRELEASED
-
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 14 Jun 2016 17:57:10 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 21 Jun 2016 11:09:20 +0200
 
 kgamma5 (5.6.4-1) unstable; urgency=medium
 
