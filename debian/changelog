@@ -1,13 +1,10 @@
-kgamma5 (5.7.4-1~1.gbpa9b61a) UNRELEASED; urgency=medium
+kgamma5 (5.7.4-1) unstable; urgency=medium
 
-  ** SNAPSHOT build @a9b61a86351cd24bfdf4ad1bc10083f392b04ad3 **
-
+  [ Automatic packaging ]
   * Update build-deps and deps with the info from cmake
-  * UNRELEASED
-  * UNRELEASED
-  * UNRELEASED
+  * New upstream release (5.7.4).
 
- -- Automatic packaging <jenkins@gnuservers.com.ar>  Wed, 24 Aug 2016 17:57:10 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 26 Aug 2016 14:48:03 +0200
 
 kgamma5 (5.7.0-1) unstable; urgency=medium
 
