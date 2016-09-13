@@ -1,3 +1,11 @@
+kgamma5 (5.7.5-1~1.gbpd3be11) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @d3be11821ab835940a98249aa60d0810a918ed23 **
+
+  * Update build-deps and deps with the info from cmake
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Tue, 13 Sep 2016 17:57:34 +0200
+
 kgamma5 (5.7.4-1) unstable; urgency=medium
 
   [ Automatic packaging ]
