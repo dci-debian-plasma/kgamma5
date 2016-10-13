@@ -1,3 +1,11 @@
+kgamma5 (5.8.1-1~1.gbpba8408) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @ba840866c4fbb92d52b3d8267680706e4ca68088 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 13 Oct 2016 17:57:24 +0200
+
 kgamma5 (5.8.0-1) unstable; urgency=medium
 
   * New upstream release (5.8.0)
