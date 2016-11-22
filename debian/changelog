@@ -1,10 +1,11 @@
-kgamma5 (5.8.3-1~1.gbp04c7c3) UNRELEASED; urgency=medium
+kgamma5 (5.8.4-1~1.gbpa23611) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @04c7c358c9bd6a3cded3a938e0df9293eed65260 **
+  ** SNAPSHOT build @a23611d022db3ad81e5b77e348cbb0925f6f4354 **
 
   * UNRELEASED
+  * UNRELEASED
 
- -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 01 Nov 2016 16:57:14 +0100
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Tue, 22 Nov 2016 17:57:14 +0100
 
 kgamma5 (5.8.2-1) unstable; urgency=medium
 
