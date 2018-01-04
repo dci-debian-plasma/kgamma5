@@ -1,6 +1,10 @@
 #!/usr/bin/make -f
 
 l10npkgs_firstversion_ok := 4:4.14.0-3~
-
-include /usr/share/pkg-kde-tools/qt-kde-team/3/debian-qt-kde.mk
 include /usr/share/pkg-kde-tools/qt-kde-team/2/l10n-packages.mk
+
+%:
+	dh $@ --with kf5,pkgkde_symbolshelper --buildsystem kf5 --without build_stamp
+
+override_dh_gencontrol: l10npkgs_firstversion_ok
+	dh_gencontrol
